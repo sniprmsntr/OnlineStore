@@ -1,2 +1,6 @@
-package org.yearup;public class OnlineStoreApp {
+package org.yearup;
+
+public class OnlineStoreApp {
+    public void run() {
+    }
 }
